@@ -31,9 +31,9 @@ To get started install the, simply clone the repository and run the application.
 
 1. Clone the repository:
 
-   ```
+```
    git clone https://github.com/d1r3w0lf81/WebChecker.git
-   ```
+```
 
 2. Install the required dependencies:
 ```
