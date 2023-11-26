@@ -15,11 +15,12 @@ The **Web Checking Tool** is a Python-based application that allows users to per
 
 - **Speech Feedback:** Receive audible feedback at the start and end of the web checking process using text-to-speech functionality.
 
-This tool is designed to assist users in conducting web scoping activities, ensuring websites are accessible, secure, and free from common vulnerabilities.
 
 ## Getting Started
 
-To get started install the, simply clone the repository and run the application. Follow the on-screen instructions to input URLs, enable/disable checks, and review the generated reports.
+This tool is designed to assist users in conducting web scoping activities, ensuring websites are accessible, secure, and free from common vulnerabilities.
+
+To get started install requirements, clone the repository and run the application. Follow the on-screen instructions to input URLs, enable/disable checks, and review the generated reports.
 
 
 ## Requirements
