@@ -1,13 +1,27 @@
 # Web Scoping Tool
 
-Web Scoping Tool is a simple application that allows you to check the status of web pages and capture screenshots for a list of URLs.
+# Web Checking Tool
 
-## Features
+The **Web Checking Tool** is a Python-based application that allows users to perform comprehensive checks on web URLs. The tool provides the ability to:
 
-- Check the status of web pages to determine if they are up or down.
-- Capture screenshots of web pages for further analysis.
-- Easy-to-use GUI for inputting URLs or loading them from a file.
-- [**IN DEVELOPMENT**] Option to check for the presence of a Web Application Firewall (WAF).
+- **Check Website Status:** Verify whether a website is up and running by examining the HTTP status code.
+
+- **Web Application Firewall (WAF) Detection:** Detect the presence of a Web Application Firewall by sending a test payload and analyzing the response.
+
+- **Take Screenshots:** Capture screenshots of websites to visually inspect their appearance.
+
+- **Generate HTML Reports:** Generate detailed HTML reports summarizing the results of the checks.
+
+- **User-Friendly GUI:** The tool features a user-friendly graphical user interface (GUI) built using PyQt5, providing an intuitive experience for users.
+
+- **Speech Feedback:** Receive audible feedback at the start and end of the web checking process using text-to-speech functionality.
+
+This tool is designed to assist users in conducting web scoping activities, ensuring websites are accessible, secure, and free from common vulnerabilities.
+
+## Getting Started
+
+To get started, simply clone the repository and run the application. Follow the on-screen instructions to input URLs, enable/disable checks, and review the generated reports.
+
 
 ## Requirements
 
