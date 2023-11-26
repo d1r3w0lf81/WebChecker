@@ -12,7 +12,7 @@ Web Scoping Tool is a simple application that allows you to check the status of 
 ## Requirements
 
 - Python 3.x
-- ChromeDriver (download and set the path in the script)
+- ChromeDriver (download and set the path in the script) 
 
 ## Installation
 
@@ -24,6 +24,16 @@ Web Scoping Tool is a simple application that allows you to check the status of 
 2. Install the required dependencies:
 
    pip install -r requirements.txt
+
+3. Install ChromeDriver requried to take headless screenshotes - https://chromedriver.chromium.org/downloads 
+
+Change the line in the code below to point to where you installed the chrome driver
+
+E.g.
+```
+    chromedriver_path = r"C:\Users\k3nn3dy\Downloads\chromedriver-win64\chromedriver-win64\chromedriver.exe"
+
+```
 
 ## Usage
 Run the script:
