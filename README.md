@@ -1,4 +1,3 @@
-# Web Scoping Tool
 
 # Web Checking Tool
 
@@ -20,7 +19,7 @@ This tool is designed to assist users in conducting web scoping activities, ensu
 
 ## Getting Started
 
-To get started, simply clone the repository and run the application. Follow the on-screen instructions to input URLs, enable/disable checks, and review the generated reports.
+To get started install the, simply clone the repository and run the application. Follow the on-screen instructions to input URLs, enable/disable checks, and review the generated reports.
 
 
 ## Requirements
@@ -32,8 +31,9 @@ To get started, simply clone the repository and run the application. Follow the 
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/yourusername/web-scoping-tool.git
+   ```
+   git clone https://github.com/d1r3w0lf81/WebChecker.git
+   ```
 
 2. Install the required dependencies:
 ```
@@ -53,18 +53,17 @@ E.g.
 Run the script:
 
 ```
-python web_scoping_tool.py
+python webchecker.py
 ```
 Enter the URL or select a file containing a list of URLs.
 
-![image](https://github.com/d1r3w0lf81/WebScoper/assets/65041560/15e56e2e-e0f4-45ca-8b21-5b35d46ef503)
-
+![image](https://github.com/d1r3w0lf81/WebChecker/assets/65041560/10e039f5-c5ea-4c44-877f-72db98f5f2a1)
 
 Optionally, select Browse and select a text file with URLs, one per per line must have http or https prefix
 
-Click "Run Web Scoping" to start the process.
+Click "Run Web Check" to start the process. Optionally include WAF check by selecting check box
 
 Results and screenshots will be saved in the screenshots folder, html page is created and the screenshots displayed with a status.
 
-![image](https://github.com/d1r3w0lf81/WebScoper/assets/65041560/252f427e-e88c-43f3-9a60-d02aebb74a3b)
+![image](https://github.com/d1r3w0lf81/WebChecker/assets/65041560/c7d7aa65-1875-4524-a02f-88ed2b0abada)
 
