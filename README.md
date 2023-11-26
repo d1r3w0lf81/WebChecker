@@ -20,3 +20,27 @@ Web Scoping Tool is a simple application that allows you to check the status of 
 
    ```bash
    git clone https://github.com/yourusername/web-scoping-tool.git
+
+2. Install the required dependencies:
+
+   pip install -r requirements.txt
+
+## Usage
+Run the script:
+
+```
+python web_scoping_tool.py
+```
+Enter the URL or select a file containing a list of URLs.
+
+![image](https://github.com/d1r3w0lf81/WebScoper/assets/65041560/15e56e2e-e0f4-45ca-8b21-5b35d46ef503)
+
+
+Optionally, select Browse and select a text file with URLs, one per per line must have http or https prefix
+
+Click "Run Web Scoping" to start the process.
+
+Results and screenshots will be saved in the screenshots folder, html page is created and the screenshots displayed with a status.
+
+![image](https://github.com/d1r3w0lf81/WebScoper/assets/65041560/252f427e-e88c-43f3-9a60-d02aebb74a3b)
+
