@@ -18,7 +18,7 @@ The **Web Checking Tool** is a Python-based application that allows users to per
 
 ## Getting Started
 
-This tool is designed to assist users in conducting web scoping activities, ensuring websites are accessible, secure, and free from common vulnerabilities.
+This tool is designed to assist users in conducting web scoping activities, ensuring websites are accessible, and not impeded for security testing by a WAF.
 
 To get started install requirements, clone the repository and run the application. Follow the on-screen instructions to input URLs, enable/disable checks, and review the generated reports.
 
