@@ -22,9 +22,9 @@ Web Scoping Tool is a simple application that allows you to check the status of 
    git clone https://github.com/yourusername/web-scoping-tool.git
 
 2. Install the required dependencies:
-
+```
    pip install -r requirements.txt
-
+```
 3. Install ChromeDriver requried to take headless screenshotes - https://chromedriver.chromium.org/downloads 
 
 Change the line in the code below to point to where you installed the chrome driver
