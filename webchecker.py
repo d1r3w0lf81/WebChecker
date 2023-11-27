@@ -143,7 +143,7 @@ class WebScopingApp(QWidget):
                             max-width: 800px;
                             margin: 0 auto;
                             padding: 20px;
-                            background-color: #808080;  /* Grey background */
+                            background-color: #36454F;  /* Charcoal Grey background */
                             color: white;  /* white text */
                         }
                         h1 {
