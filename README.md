@@ -66,5 +66,5 @@ Click "Run Web Check" to start the process. Optionally include WAF check by sele
 
 Results and screenshots will be saved in the screenshots folder, html page is created and the screenshots displayed with a status.
 
-![image](https://github.com/d1r3w0lf81/WebChecker/assets/65041560/c7d7aa65-1875-4524-a02f-88ed2b0abada)
+![image](https://github.com/d1r3w0lf81/WebChecker/assets/65041560/8aad1ded-ac88-4a02-bddc-62c4477eb2af)
 
